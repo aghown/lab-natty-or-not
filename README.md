@@ -37,7 +37,9 @@ Este e-book foi criado para ajudar iniciantes a entenderem e utilizarem o poder 
 4. Revisão: Verificação de erros e melhorias no texto.  
 
 ## 🚀 Resultados  
-O e-book "Dicas Práticas para Iniciantes em IA Generativa" apresenta um guia acessível sobre como começar a usar ferramentas de IA. Ele é visualmente organizado e pode ser compartilhado em formatos digitais para ampla disseminação do conhecimento.  
+O e-book "Dicas Práticas para Iniciantes em IA Generativa" apresenta um guia claro e acessível sobre como começar a usar ferramentas de IA. Ele é visualmente organizado e pode ser compartilhado em formatos digitais para ampla disseminação do conhecimento.  
+
+[Baixar o e-book aqui](https://descomplica2-my.sharepoint.com/:w:/g/personal/hanna_2311786_aluno_faculdadedescomplica_com_br/EUhK6LNTG-RDiB9xfbE13EwBTezChXPDio7bexjI2llHKg?e=L50f8Q)
 
 ## 💭 Reflexão (Opcional)  
 Criar este e-book foi uma oportunidade incrível de explorar o potencial das IAs Generativas na prática. A experiência mostrou como essas ferramentas podem facilitar o aprendizado e a criação de conteúdo, tornando o processo rápido e eficiente.
